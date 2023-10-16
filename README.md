@@ -5,3 +5,4 @@ Beginner Level <br>
 Creating a basic recipe site using only HTML. <br>
 First project from the odin project
     
+https://razvanuscatun.github.io/odin-recipes/
