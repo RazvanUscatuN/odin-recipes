@@ -8,6 +8,8 @@ h1 {
 .main-interface {
     border: 2px solid red;
     text-align: center;
+    background-color: darkblue;
+    color: white
 }
 .logo {
     width: auto;
@@ -16,14 +18,20 @@ h1 {
 
 .recipe-interface {
     text-align: center;
+    background-color: red;
 }
 
 .recipe-interface ul {
     list-style: none;
+    display: flex;
+    justify-content: center;
 }
-.recipe-interface li {
-    display: inline;
-    word-spacing: 300px;
+.recipe-interface li a img {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-right: 150px;
+
 }
 .recipe-interface a {
     font-size: 30px;
