@@ -1,0 +1,31 @@
+h1 {
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.main-interface {
+    border: 2px solid red;
+    text-align: center;
+}
+.logo {
+    width: auto;
+    height: 100px;
+}
+
+.recipe-interface {
+    text-align: center;
+}
+
+.recipe-interface ul {
+    list-style: none;
+}
+.recipe-interface li {
+    display: inline;
+    word-spacing: 300px;
+}
+.recipe-interface a {
+    font-size: 30px;
+    text-decoration: none;
+}
